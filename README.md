@@ -66,7 +66,7 @@ https://github.com/barrackmobamba69/WeatherChatbot/assets/106630515/a1a14311-c5d
 
 This project is licensed under the MIT License.
 
-## Author
+## From the Author
 
 - *LinkedIn*: [Udayy Singh Pawar](https://www.linkedin.com/in/udayy-singh-pawar/)
 - *GitHub*: [barrackmobamba69](https://github.com/barrackmobamba69)
