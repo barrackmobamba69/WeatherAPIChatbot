@@ -14,12 +14,17 @@ This is an interactive chatbot that provides real-time weather information from 
 - [License](#license)
 - [From the Author](#author)
 
+## Features
+- Fetches real-time weather information for any city.
+- Provides temperature in Celsius.
+- Suggests appropriate clothing based on the current temperature.
+- Offers basic commands to help users navigate the chatbot.
+
 ## Demo
 
 You can see a demo of the Weather Chatbot below.
 
 https://github.com/barrackmobamba69/WeatherChatbot/assets/106630515/a1a14311-c5dc-4b06-ba57-252d812915a2
-
 
 ## Installation
 
