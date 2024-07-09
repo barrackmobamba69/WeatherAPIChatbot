@@ -29,7 +29,7 @@ https://github.com/barrackmobamba69/WeatherChatbot/assets/106630515/a1a14311-c5d
 
 1. Navigate to your folder and clone the repository:
 
-        git clone https://github.com/your-github-username/weather-chatbot.git
+        git clone https://github.com/barrackmobamba69/WeatherChatbot
 
 2. Create an acount in [OpenWeatherMap.org](https://home.openweathermap.org/users/sign_in) and create your API key under "My API keys"
 3. Replce your API key in `script.js`, under
