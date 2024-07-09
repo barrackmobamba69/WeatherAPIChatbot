@@ -10,9 +10,8 @@ This is an interactive chatbot that provides real-time weather information from 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
-- [From the Author](#author)
+- [From the Author](#from-the-Author)
 
 ## Features
 - Fetches real-time weather information for any city.
@@ -67,7 +66,7 @@ https://github.com/barrackmobamba69/WeatherChatbot/assets/106630515/a1a14311-c5d
 
 This project is licensed under the MIT License.
 
-## From the Author
+## Author
 
 - *LinkedIn*: [Udayy Singh Pawar](https://www.linkedin.com/in/udayy-singh-pawar/)
 - *GitHub*: [barrackmobamba69](https://github.com/barrackmobamba69)
